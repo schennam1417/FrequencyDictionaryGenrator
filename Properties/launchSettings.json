@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FrequencyDictionaryGenrator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Surekha\\Dictionary\\Inputfile\\sample.txt\" \"C:\\Surekha\\Dictionary\\Outputfile\\output.txt\""
+    }
+  }
+}
